@@ -11,8 +11,6 @@ String func(int a) {
     i += 1;
     if (i % 2 == 1) {
       x += i.toString();
-
-      if (i % 2 == 0) {}
     }
   }
   return x;
